@@ -52,21 +52,6 @@
         <?php include 'header.php';?>
     <!-- header end -->
 
-    <!-- Social Sidebar Area Start -->
-    <div class="social-sidebar-area bg-white">
-        <!-- Social Area -->
-        <div class="social-info-area">
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Facebook</span></a>
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i> <span>Twitter</span></a>
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i> <span>Pinterest</span></a>
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Behance"><i class="fa fa-behance" aria-hidden="true"></i> <span>Behance</span></a>
-        </div>
-        <!-- Message Box -->
-        <div class="message-box">
-            <a href="#" data-toggle="modal" data-target=".contact-modal-lg"><img src="img/core-img/envelope.png" alt=""></a>
-        </div>
-    </div>
-    <!-- Social Sidebar Area End -->
     
     <!-- ***** Welcome Area Start ***** -->
     <section class="welcome-area">
@@ -74,79 +59,75 @@
             <!-- Carousel Inner -->
             <div class="carousel-inner h-100">
 
-                <div class="carousel-item h-100 bg-img active" style="background-image: url(https://i.imgur.com/kZvHrmh.jpg);">
+                <div class="carousel-item h-100 bg-img active" style="background-image: url(https://i.imgur.com/FCzH5VV.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
 
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/2.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/gwdk9NH.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/3.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/hSYy9lK.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/4.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/EOWqeYH.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/5.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/vmDl7Pf.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/6.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/Avq9mMr.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/7.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/vABalFX.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/8.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/ZYlRiB9.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/9.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/dnrFA5q.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/10.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/7rMOvcI.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/11.jpg);">
-                    <div class="carousel-content h-100">
-                        <div class="slide-text">
-                            <span>11.</span>
-                            <h2> Believe you can fly</h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/12.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/Umqw2Fh.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
-                <div class="carousel-item h-100 bg-img" style="background-image: url(img/bg-img/13.jpg);">
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/PgfpvXd.jpg);">
+                    <div class="carousel-content h-100">
+                    </div>
+                </div>
+                <div class="carousel-item h-100 bg-img" style="background-image: url(https://i.imgur.com/z8jkrBE.jpg);">
                     <div class="carousel-content h-100">
                     </div>
                 </div>
             </div>
             <!-- Carousel Indicators -->
             <ol class="carousel-indicators">
-                <li data-target="#welcomeSlider" data-slide-to="0" class="active bg-img" style="background-image: url(https://i.imgur.com/kZvHrmh.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="1" class="bg-img" style="background-image: url(img/bg-img/2.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="2" class="bg-img" style="background-image: url(img/bg-img/3.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="3" class="bg-img" style="background-image: url(img/bg-img/4.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="4" class="bg-img" style="background-image: url(img/bg-img/5.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="5" class="bg-img" style="background-image: url(img/bg-img/6.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="6" class="bg-img" style="background-image: url(img/bg-img/7.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="7" class="bg-img" style="background-image: url(img/bg-img/8.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="8" class="bg-img" style="background-image: url(img/bg-img/9.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="9" class="bg-img" style="background-image: url(img/bg-img/10.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="10" class="bg-img" style="background-image: url(img/bg-img/11.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="11" class="bg-img" style="background-image: url(img/bg-img/12.jpg);"></li>
-                <li data-target="#welcomeSlider" data-slide-to="12" class="bg-img" style="background-image: url(img/bg-img/13.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="0" class="active bg-img" style="background-image: url(https://i.imgur.com/FCzH5VV.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="1" class="bg-img" style="background-image: url(https://i.imgur.com/gwdk9NH.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="2" class="bg-img" style="background-image: url(https://i.imgur.com/hSYy9lK.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="3" class="bg-img" style="background-image: url(https://i.imgur.com/EOWqeYH.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="4" class="bg-img" style="background-image: url(https://i.imgur.com/vmDl7Pf.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="5" class="bg-img" style="background-image: url(https://i.imgur.com/Avq9mMr.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="6" class="bg-img" style="background-image: url(https://i.imgur.com/vABalFX.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="7" class="bg-img" style="background-image: url(https://i.imgur.com/ZYlRiB9.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="8" class="bg-img" style="background-image: url(https://i.imgur.com/dnrFA5q.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="9" class="bg-img" style="background-image: url(https://i.imgur.com/7rMOvcI.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="10" class="bg-img" style="background-image: url(https://i.imgur.com/Umqw2Fh.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="11" class="bg-img" style="background-image: url(https://i.imgur.com/PgfpvXd.jpg);"></li>
+                <li data-target="#welcomeSlider" data-slide-to="12" class="bg-img" style="background-image: url(https://i.imgur.com/z8jkrBE.jpg);"></li>
             </ol>
         </div>
     </section>
@@ -197,10 +178,6 @@
     </div>
     <!-- ***** Contact Area End ***** -->
 
-
-    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
