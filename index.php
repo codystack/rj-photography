@@ -47,8 +47,10 @@
 
     <!-- Gradient Background Overlay -->
     <div class="gradient-background-overlay"></div>
-
-   <?php include 'header.php';?>
+    
+    <!-- header start -->
+        <?php include 'header.php';?>
+    <!-- header end -->
 
     <!-- Social Sidebar Area Start -->
     <div class="social-sidebar-area bg-white">

@@ -6,7 +6,7 @@
                     <div class="main-menu h-100">
                         <nav class="navbar h-100 navbar-expand-lg">
                             <!-- Logo Area  -->
-                            <a class="navbar-brand" href="index.html"><img src="img/core-img/logo.png" alt="Logo"></a>
+                            <a class="navbar-brand" href="\"><img src="img/core-img/logo.png" alt="Logo"></a>
 
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#studioMenu" aria-controls="studioMenu" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i> Menu</button>
 
@@ -14,7 +14,7 @@
                                 <!-- Menu Area Start  -->
                                 <ul class="navbar-nav ml-auto">
                                     <li class="nav-item active">
-                                        <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                        <a class="nav-link" href="\">Home <span class="sr-only">(current)</span></a>
                                     </li>
                                     <li class="nav-item dropdown">
                                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
@@ -28,13 +28,10 @@
                                         </div>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="about-me.html">About</a>
+                                        <a class="nav-link" href="about-me">About</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="portfolio.html">Portfolio</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="blog.html">Blog</a>
+                                        <a class="nav-link" href="portfolio">Portfolio</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="contact">contact</a>
