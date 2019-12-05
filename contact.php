@@ -111,21 +111,21 @@
                     <!-- Contact Info -->
                     <div class="contact-core-info d-flex align-items-center wow fadeInLeftBig" data-wow-delay="1s" data-wow-duration="1000ms">
                         <div class="contactInfo">
-                            <img src="img/core-img/logo.png" alt="">
+                            <img src="https://i.imgur.com/ssWaaBu.png" alt="">
                             <!-- Single Footer Content -->
                             <div class="single-footer-content">
                                 <img src="img/core-img/map.png" alt="">
-                                <a href="#">Blvd Libertad, 34 m05200 Arévalo</a>
+                                <a href="#">Lagos, Nigeria.</a>
                             </div>
                             <!-- Single Footer Content -->
                             <div class="single-footer-content">
                                 <img src="img/core-img/smartphone.png" alt="">
-                                <a href="#">0034 37483 2445 322</a>
+                                <a href="#">0807-165-3829</a>
                             </div>
                             <!-- Single Footer Content -->
                             <div class="single-footer-content">
                                 <img src="img/core-img/envelope-2.png" alt="">
-                                <a href="#">hello@company.com</a>
+                                <a href="#">info@rumejohn.com</a>
                             </div>
                         </div>
                     </div>
@@ -135,48 +135,9 @@
     </div>
 
     <!-- Follow Me Instagram Area Start -->
-    <section class="follow-me-instagram-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-11 ml-auto">
-                    <div class="follow-me-title">
-                        <h5>Follow me @ Instagram</h5>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Instagram Feeds Area -->
-        <div class="instagram-feeds-area owl-carousel">
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i1.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i2.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i3.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i4.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i5.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i6.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-            <div class="single-instagram-feeds">
-                <img src="img/bg-img/i7.jpg" alt="">
-                <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            </div>
-        </div>
-    </section>
+    
+    
+
     <!-- Follow Me Instagram Area End -->
 
     <!-- Footer Area Start -->
@@ -200,7 +161,7 @@
     <!-- Active js -->
     <script src="js/active.js"></script>
     <!-- Google Maps -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwuyLRa1uKNtbgx6xAJVmWy-zADgegA2s"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDODKndJ8udk9xrwV_9KZwzziQOgsAR3Ew"></script>
     <script src="js/map-active.js"></script>
 
 

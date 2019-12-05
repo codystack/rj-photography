@@ -7,12 +7,12 @@
                         <!-- Single Footer Content -->
                         <div class="single-footer-content">
                             <img src="img/core-img/map.png" alt="">
-                            <a href="#">Blvd Libertad, 34 m05200 Arévalo</a>
+                            <a href="#">Lagos, Nigeria.</a>
                         </div>
                         <!-- Single Footer Content -->
                         <div class="single-footer-content">
                             <img src="img/core-img/smartphone.png" alt="">
-                            <a href="#">0034 37483 2445 322</a>
+                            <a href="#">0807-165-3829</a>
                         </div>
                         <!-- Single Footer Content -->
                         <div class="single-footer-content">
