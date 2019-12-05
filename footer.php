@@ -17,7 +17,7 @@
                         <!-- Single Footer Content -->
                         <div class="single-footer-content">
                             <img src="img/core-img/envelope-2.png" alt="">
-                            <a href="#">info@rumejohn.com</a>
+                            <a href="mailto:info@rumejohn.com?Subject=Hello%20again" target="_top">info@rumejohn.com</a>
                         </div>
                     </div>
                 </div>

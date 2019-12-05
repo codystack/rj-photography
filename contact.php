@@ -71,7 +71,8 @@
                     <div class="contact-heading-text text-center mb-100">
                         <span></span>
                         <h2>Please get in touch</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel lectus eu felis semper finibus ac eget ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vulputate id justo quis facilisis. Vestibulum id orci ligula. Sed tempor, nunc ut sodales pulvinar, mauris ante euismod magna, at elementum lectus leo sed enim. Praesent dictum suscipit tincidunt. Nulla facilisi. Aenean in mollis orci. Ut interdum vulputate ante a egestas. Pellentesque varius purus malesuada arcu semper vehicula. </p>
+                        <p>Thanks for taking the time to contact us! We do our best to respond to quickly.</br>
+                        For quotation requests or other messages, please use the following form. </br>We will do our best to answer as soon as possible. Thank you!</p>
                     </div>
                 </div>
                 <!-- Contact Form Area -->
@@ -125,7 +126,7 @@
                             <!-- Single Footer Content -->
                             <div class="single-footer-content">
                                 <img src="img/core-img/envelope-2.png" alt="">
-                                <a href="#">info@rumejohn.com</a>
+                                <a href="mailto:info@rumejohn.com?Subject=Hello%20again">info@rumejohn.com</a>
                             </div>
                         </div>
                     </div>
@@ -146,9 +147,6 @@
         
     <!-- Footer Area End -->
 
-    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
