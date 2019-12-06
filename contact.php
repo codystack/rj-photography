@@ -6,10 +6,13 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="WebifyNG, Webify">
+    <meta name="description" content="My name is Rume John a portrait fashion and wedding photographer, finding solutions to complex problems."/>
+    <meta name="keywords" content="Rume John, portrait, fashion, wedding, photographer, photography"/>
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
-    <title>Contact :: RJ Photoworks&trade;</title>
+    <title>Contact :: Rume John Photography&trade;</title>
 
     <!-- Favicon  -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -110,7 +113,7 @@
                             <!-- Single Footer Content -->
                             <div class="single-footer-content">
                                 <img src="img/core-img/smartphone.png" alt="">
-                                <a href="#">0807-165-3829</a>
+                                <a href="tel:08071653829">0807-165-3829</a>
                             </div>
                             <!-- Single Footer Content -->
                             <div class="single-footer-content">

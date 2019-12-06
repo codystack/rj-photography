@@ -12,7 +12,7 @@
                         <!-- Single Footer Content -->
                         <div class="single-footer-content">
                             <img src="img/core-img/smartphone.png" alt="">
-                            <a href="#">0807-165-3829</a>
+                            <a href="tel:08071653829">0807-165-3829</a>
                         </div>
                         <!-- Single Footer Content -->
                         <div class="single-footer-content">

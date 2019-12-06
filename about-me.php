@@ -6,10 +6,13 @@
     <meta name="description" content="">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="author" content="WebifyNG, Webify">
+    <meta name="description" content="My name is Rume John a portrait fashion and wedding photographer, finding solutions to complex problems."/>
+    <meta name="keywords" content="Rume John, portrait, fashion, wedding, photographer, photography"/>
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title  -->
-    <title>Contact :: RJ Photoworks&trade;</title>
+    <title>About :: Rume John Photography&trade;</title>
 
     <!-- Favicon  -->
     <link rel="icon" href="img/core-img/favicon.ico">
@@ -68,6 +71,9 @@
                         <span></span>
                         <h2>What can I tell you about me?</h2>
                         <p>My name is Rume John a portrait fashion and wedding photographer, finding solutions to complex problems has been a trait i developed while growing up until passion for photography took over me. <br> Rume John photography has worked on fashion magazine, editorials, lookbook and beauty campaigns for both local and international high profile brand like La,Sien, Euphoria Scent, The Nigerian Queen, Coser and more.</p>
+                        <div class="studio-buttons-area mb-100">
+                        <a href="tel:08071653829" class="btn studio-btn"><img src="img/core-img/logo-icon.png" alt=""> Book Now</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -80,10 +86,6 @@
         <?php include 'footer.php';?>
         
     <!-- Footer Area End -->
-
-    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-<p>Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
     <!-- jQuery (Necessary for All JavaScript Plugins) -->
     <script src="js/jquery/jquery-2.2.4.min.js"></script>
