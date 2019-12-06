@@ -34,35 +34,24 @@
             </div>
         </div>
         <div class="questions-area text-center">
-            <p>Did you know?</p>
+            <p>Did you know that?</p>
             <ul>
-                <li>The largest photography competition is 353,768 entries.</li>
-                <li>Photography is the toughest profession in the world.</li>
-                <li>The world’s largest photo album by dimensions was 13 ft 11.5 in x 17 ft.</li>
-                <li>The world’s largest photo mosaic featured 176,175 pictures.</li>
-                <li>The world’s largest camera lens was a 5200mm lens attached to a canon.</li>
+                <li>I don’t trust words. I trust pictures.</li>
+                <li>You don’t take a photograph, you make it.</li>
+                <li>You only photograph what you love.</li>
+                <li>I don’t take a photograph, i make it.</li>
+                <li>When people ask me what equipment I use – I tell them my eyes.</li>
             </ul>
         </div>
     </div>
+
 
     <!-- Gradient Background Overlay -->
     <div class="gradient-background-overlay"></div>
 
     <!-- header start -->
-        <?php include 'header.php';?>
+        <?php include 'header2.php';?>
     <!-- header end -->
-
-    <!-- Social Sidebar Area Start -->
-    <div class="social-sidebar-area">
-        <!-- Social Area -->
-        <div class="social-info-area">
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Facebook"><i class="fa fa-facebook" aria-hidden="true"></i> <span>Facebook</span></a>
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i> <span>Twitter</span></a>
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Pinterest"><i class="fa fa-pinterest" aria-hidden="true"></i> <span>Pinterest</span></a>
-            <a href="#" data-toggle="tooltip" data-placement="right" title="Behance"><i class="fa fa-behance" aria-hidden="true"></i> <span>Behance</span></a>
-        </div>
-    </div>
-    <!-- Social Sidebar Area End -->
 
     <section class="contact-area section_padding_100 mt-100">
         <div class="container">
